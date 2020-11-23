@@ -1,6 +1,5 @@
 {
     "summary": [
-        "Teaching Assistant - Girl Develop It",
         "Highly motivated and goal oriented Web Developer",
         "Hands on Experience with web development",
         "Excellent communication and inter personal skills"
@@ -8,30 +7,14 @@
     "personalInfo": {
         "about": "",
         "name": "Timothy Phillips",
-        "location": "San Diego, CA",
-        "github": "https://github.com/sahanabalram",
-        "linkedIn": "https://www.linkedin.com/in/sahana-balram/"
+        "location": "Seattle, WA",
+        "github": "https://github.com/UnexpectedGoat",
+        "linkedIn": "https://www.linkedin.com/in/timdphilsailor/"
     },
     "education": [{
-            "degree": "Bachelors of Computer Science",
-            "university": "Karpagam University",
-            "year": 2013
-        },
-        {
-            "degree": "Master's of Information and Communication Technology",
-            "university": "University of Western Sydney, Australia",
-            "year": 2015
-        },
-        {
-            "degree": "Web Develoment Coding BootCamp",
-            "university": "University of California, San Diego",
-            "year": 2017
-        },
-
-        {
-            "degree": "Front-End Development Certification",
-            "university": "FreeCodeCamp",
-            "year": 2018
+            "degree": "Bachelors of Business Administration-Marketing",
+            "university": "University of Washington Tacoma",
+            "year": 2019
         }
     ],
     "projects": [{
@@ -40,56 +23,54 @@
             "technologies": [
                 "React",
                 "React-Bootstrap",
-                "React-tagcloud",
                 "CSS"
             ],
-            "link": "https://sahanabalram.github.io/ReactPortfolio/",
+            "link": "https://unexpectedgoat.github.io/reactport/",
             "screenshot": "https://raw.githubusercontent.com/sahanabalram/ReactPortfolio/master/portfolio.png"
         },
         {
-            "heading": "Game of Life",
-            "description": "Cellular automation game, where One interacts with the Game of Life by creating an initial configuration and observing how it evolves",
+            "heading": "Burger App",
+            "description": "App where you eat burgers",
             "technologies": [
                 "React",
                 "React-Bootstrap",
                 "CSS"
             ],
-            "link": "https://sahanabalram.github.io/gameoflife/",
-            "screenshot": "https://raw.githubusercontent.com/sahanabalram/gameoflife/master/gameoflife.png"
+            "link": "https://burgerapp342.herokuapp.com/",
+            "screenshot": ""
         },
         {
-            "heading": "Simon Game",
-            "description": "An electronic game of memory skill",
+            "heading": "Recipes by Nutrition",
+            "description": "Recipe and nutrition tracker",
             "technologies": ["HTML", "CSS", "JavaScript"],
-            "link": "https://sahanabalram.github.io/simongame/",
-            "screenshot": "https://raw.githubusercontent.com/sahanabalram/simongame/master/simongame.png"
+            "link": "https://mercspring.github.io/recipes-by-nutrition/",
+            "screenshot": ""
         },
         {
-            "heading": "Cartogram",
-            "description": "A single page web application displays weather, farmer's market locations and restautrants in google maps near the current location",
-            "technologies": [
-                "Material UI",
-                "Google (Geo Code, Maps, Places, Search) APIs",
-                "Open Weather API",
-                "Farmer's Market API",
-                "Firebase NoSQL Database"
-            ],
-            "link": "https://sahanabalram.github.io/cartogram/",
-            "screenshot": "https://raw.githubusercontent.com/sahanabalram/cartogram/master/assets/images/app.JPG"
-        },
-        {
-            "heading": "Giphy",
-            "description": "A single page web application displays gif's of your favourtie movies",
+            "heading": "WeatherApp",
+            "description": "App which easily and accurately tells you the weather",
             "technologies": [
                 "Material UI",
                 "HTML",
                 "CSS",
                 "JavaScript",
                 "jQuery",
-                "Giph API"
             ],
-            "link": "https://sahanabalram.github.io/giphyAPI/",
-            "screenshot": "https://raw.githubusercontent.com/sahanabalram/giphyAPI/master/assets/giphy.png"
+            "link": "https://unexpectedgoat.github.io/theWeather/",
+            "screenshot": ""
+        },
+        {
+            "heading": "Mixr",
+            "description": "App where your drinks are properly mixed and stirred",
+            "technologies": [
+                "Material UI",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery"
+            ],
+            "link": "https://mixr-cocktail-app.herokuapp.com/",
+            "screenshot": ""
         }
     ],
     "skills": [{
