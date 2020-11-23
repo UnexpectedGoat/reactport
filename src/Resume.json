@@ -1,0 +1,175 @@
+{
+    "summary": [
+        "Teaching Assistant - Girl Develop It",
+        "Highly motivated and goal oriented Web Developer",
+        "Hands on Experience with web development",
+        "Excellent communication and inter personal skills"
+    ],
+    "personalInfo": {
+        "about": "",
+        "name": "Timothy Phillips",
+        "location": "San Diego, CA",
+        "github": "https://github.com/sahanabalram",
+        "linkedIn": "https://www.linkedin.com/in/sahana-balram/"
+    },
+    "education": [{
+            "degree": "Bachelors of Computer Science",
+            "university": "Karpagam University",
+            "year": 2013
+        },
+        {
+            "degree": "Master's of Information and Communication Technology",
+            "university": "University of Western Sydney, Australia",
+            "year": 2015
+        },
+        {
+            "degree": "Web Develoment Coding BootCamp",
+            "university": "University of California, San Diego",
+            "year": 2017
+        },
+
+        {
+            "degree": "Front-End Development Certification",
+            "university": "FreeCodeCamp",
+            "year": 2018
+        }
+    ],
+    "projects": [{
+            "heading": "Portfolio",
+            "description": "Personal web portfolio developed using React",
+            "technologies": [
+                "React",
+                "React-Bootstrap",
+                "React-tagcloud",
+                "CSS"
+            ],
+            "link": "https://sahanabalram.github.io/ReactPortfolio/",
+            "screenshot": "https://raw.githubusercontent.com/sahanabalram/ReactPortfolio/master/portfolio.png"
+        },
+        {
+            "heading": "Game of Life",
+            "description": "Cellular automation game, where One interacts with the Game of Life by creating an initial configuration and observing how it evolves",
+            "technologies": [
+                "React",
+                "React-Bootstrap",
+                "CSS"
+            ],
+            "link": "https://sahanabalram.github.io/gameoflife/",
+            "screenshot": "https://raw.githubusercontent.com/sahanabalram/gameoflife/master/gameoflife.png"
+        },
+        {
+            "heading": "Simon Game",
+            "description": "An electronic game of memory skill",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "link": "https://sahanabalram.github.io/simongame/",
+            "screenshot": "https://raw.githubusercontent.com/sahanabalram/simongame/master/simongame.png"
+        },
+        {
+            "heading": "Cartogram",
+            "description": "A single page web application displays weather, farmer's market locations and restautrants in google maps near the current location",
+            "technologies": [
+                "Material UI",
+                "Google (Geo Code, Maps, Places, Search) APIs",
+                "Open Weather API",
+                "Farmer's Market API",
+                "Firebase NoSQL Database"
+            ],
+            "link": "https://sahanabalram.github.io/cartogram/",
+            "screenshot": "https://raw.githubusercontent.com/sahanabalram/cartogram/master/assets/images/app.JPG"
+        },
+        {
+            "heading": "Giphy",
+            "description": "A single page web application displays gif's of your favourtie movies",
+            "technologies": [
+                "Material UI",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery",
+                "Giph API"
+            ],
+            "link": "https://sahanabalram.github.io/giphyAPI/",
+            "screenshot": "https://raw.githubusercontent.com/sahanabalram/giphyAPI/master/assets/giphy.png"
+        }
+    ],
+    "skills": [{
+            "value": "jQuery",
+            "count": 25
+        },
+        {
+            "value": "MongoDB",
+            "count": 18
+        },
+        {
+            "value": "JavaScript",
+            "count": 27
+        },
+        {
+            "value": "React",
+            "count": 30
+        },
+        {
+            "value": "Nodejs",
+            "count": 23
+        }, {
+            "value": "Express.js",
+            "count": 25
+        },
+        {
+            "value": "HTML5",
+            "count": 38
+        },
+        {
+            "value": "CSS3",
+            "count": 25
+        },
+        {
+            "value": "Express-Handlebar",
+            "count": 22
+        },
+        {
+            "value": "MySQL",
+            "count": 21
+        },
+        {
+            "value": "Git",
+            "count": 30
+        },
+        {
+            "value": "GitHub",
+            "count": 25
+        },
+        {
+            "value": "Bitbucket",
+            "count": 10
+        },
+        {
+            "value": "Chai",
+            "count": 15
+        },
+        {
+            "value": "Mocha",
+            "count": 15
+        },
+        {
+            "value": "RQM",
+            "count": 5
+        },
+        {
+            "value": "Wordpress",
+            "count": 25
+        },
+        {
+            "value": "Drupal",
+            "count": 15
+        },
+        {
+            "value": "Heroku",
+            "count": 25
+        },
+        {
+            "value": "Firebase",
+            "count": 10
+        }
+    ]
+}

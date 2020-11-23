@@ -1,0 +1,19 @@
+{
+  "name": "reactport",
+  "version": "1.0.0",
+  "description": "## Walkthough You can find all the work that I have done and I am continuing to do in this repository. This Portfolio is developed using React and react-bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnexpectedGoat/reactport.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnexpectedGoat/reactport/issues"
+  },
+  "homepage": "https://github.com/UnexpectedGoat/reactport#readme"
+}
